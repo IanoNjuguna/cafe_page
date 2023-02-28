@@ -4,6 +4,7 @@ h1, h2, p {
 
 body {
 	background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+
 	font-family: sans-serif;
 	padding: 20px;
 }
@@ -24,7 +25,8 @@ img {
 	margin-top: -25px;
 }
 
-.flavor, .dessert {
+.flavor {
+
 	text-align: left;
 	width: 75%
 }
